@@ -9,4 +9,4 @@ THe system is also required to monitor the battery's state of charge (SoC) throu
 
   
 **SENSING**  
-wasd
+The sensing subsystem is required to, at close range(+-5cm) produce a voltage to the micro controller. This voltage must be distinguishable from a further range output(+10cm). It is also required to not drain the battery of the micro mouse as it needs to traverse a maze for roughly 10 minutes.
