@@ -1,4 +1,4 @@
-**EEE3088F DESIGN PROJECT**  
+**EEE3088F MICRO MOUSE DESIGN PROJECT**  
 The project requires the construction of two submodules that interface with a micromouse robot. The robot is designed to complete a maze after finding the most optimal path to traverse.
 The two submodules are for the **power** and **sensing** requirements of the micromouse. All design schematics and datasheets considered can be found in this repository.  
 
